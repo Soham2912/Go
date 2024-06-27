@@ -11,5 +11,12 @@ func main() {
 
 	var name string = "Void"
 	fmt.Println(name)
-	var 
+
+	const pi = 3.14
+	fmt.Println(pi)
+
+	person := "V777"
+	fmt.Println(person)
+
+	/*Capitalization of variable names and funcn names to export them*/
 }
