@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	fmt.println("Learning Go")
+	fmt.Println("Learning Go")
 }
