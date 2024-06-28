@@ -11,4 +11,5 @@ func main() {
 	fmt.Printf("height %.2f\n", height)
 	fmt.Printf("Type of age is %T\n", age)
 	fmt.Printf("Type of name is %T\n", name)
+	fmt.Printf("age %d, Height %.2f, name %s", age, height, name)
 }
